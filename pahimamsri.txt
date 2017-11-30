@@ -1,0 +1,3 @@
+P,,,,,m,mGR,R,S,R,S,R,G,,,G,m,R,S,,,,,,,,,,,,,S,S,,,R,S,S,,RG,m,
+P,,,,,m,mGR,R,S,R,S,R,G,,,GmPmR,S,,,,,,,,,,,,,S,S,,,R,S,S,,RG,m,
+P,DPmPm,mGR,R,S,R,S,R,G,,,GmPmR,S,,,,,,,,,,,,,S*,S*DP,m,D,PmR,G,m,

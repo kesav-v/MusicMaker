@@ -1,0 +1,8 @@
+G*,,R*,,S*,,N,,n,,,G*,R*,S*,N,n,G*R*,S*Nn
+G*R*S*NnR*S*NnPS*NnPmGmPnPmPnNnPnNS*NR*,
+S*,G*,,,R*,,,S*,,,N,,,G*,R*,S*,N,G*R*S*,,N,,
+n,R*S*N,,n,,P,S*Nn,,P,,m,GmPnmPnN
+PnNS*G*R*,G*R*,R*S*,R*S*,N,,,R*S*,R*S*,S*N,S*N,
+n,,,S*N,S*N,Nn,Nn,P,,,G*R*,G*(G*R*S*N)R*S*,R*(R*S*Nn)
+Pm,P(PmGR)
+S,R,,(Gm)P,m
